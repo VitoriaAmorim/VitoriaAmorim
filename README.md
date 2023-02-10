@@ -14,7 +14,7 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white" />
-  <img align="right" alt="VitoriaAmorim" height="150" style="border-radius:60px;" src="https://user-images.githubusercontent.com/110053991/218093765-1282af60-52e9-4298-b64a-1cb4756c2f7d.png">
+  <img align="right" alt="VitoriaAmorim" height="150" style="border-radius:60px;" src="https://user-images.githubusercontent.com/116197230/218123607-38b13b69-24be-421f-8680-309ff40649c4.png">
 </div>
 <br/>
 
