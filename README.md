@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vitoria Amorim
+## Oi!! Eu sou a Vitoria Amorim
 
 <div>
 <a href="https://github.com/VitoriaAmorim">
