@@ -21,3 +21,8 @@
 ## Contato
   <a href="https://www.linkedin.com/in/vitoria-amorim-5911bb239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+## Sobre mim
+
+<p>• Amo gatos hahah ^ ^ </p>
+<p>• Leitura e desenho são as minhas paixões. </p>
+<p>• E é claro, não dispenso um bom café. </p>
