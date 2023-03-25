@@ -23,6 +23,6 @@
 
 ## Sobre mim
 
-<p>• Amo gatos hahah ^ ^ </p>
+<p>• Amo gatos </p>
 <p>• Leitura e desenho são as minhas paixões. </p>
 <p>• E é claro, não dispenso um bom café. </p>
