@@ -26,3 +26,4 @@
 <p>• Amo gatos </p>
 <p>• Tenho como hobbies a leitura e o desenho. </p>
 <p>• E é claro, não dispenso um bom café. </p>
+<p>• "Você não precisa mudar o mundo para ser grande." _Héstia. </p>
