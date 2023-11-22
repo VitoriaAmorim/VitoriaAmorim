@@ -14,7 +14,7 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white" />
-  <img align="right" alt="VitoriaAmorim" height="150" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/1100601761779159154/1122718799058194534/WhatsApp_Image_2023-06-25_at_23.27.03.jpeg">
+  <img align="right" alt="VitoriaAmorim" height="150" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/1128415131819315341/1176693261235142697/perfil4.png?ex=656fcbff&is=655d56ff&hm=192c5f5aebe11d6c1d47f3edeba753c4305eae83feb40adb5e9317140d231be2&">
 </div>
 <br/>
 
@@ -26,4 +26,4 @@
 <p>• Amo gatos </p>
 <p>• Tenho como hobbies a leitura e o desenho. </p>
 <p>• E é claro, não dispenso um bom café. </p>
-<p>• "Você não precisa mudar o mundo para ser grande." _Héstia. </p>
+<p>• "As vezes, são as pessoas que ninguém espera nada que fazem as coisas que ninguém poderia imaginar." - O jogo da imitação - </p>
