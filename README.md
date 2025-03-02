@@ -23,5 +23,5 @@
 
 ## Sobre mim
 
-<p>• Tenho 20 anos, amo gatos, tenho como hobbie a leitura e o desenho. E é claro, não dispenso um bom café. </p> 
+<p>• Tenho 21 anos, amo gatos, tenho como hobbie a leitura e o desenho. E é claro, não dispenso um bom café. </p> 
 <p>• "As vezes, são as pessoas que ninguém espera nada que fazem as coisas que ninguém poderia imaginar." — O jogo da imitação </p>
